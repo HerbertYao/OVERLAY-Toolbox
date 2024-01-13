@@ -2,6 +2,8 @@
 
 <!-- PROJECT LOGO -->
 
+<h3 align="center">OVERLAY Algorithm is now a part of <a href="https://github.com/QCSB/PROSO-Toolbox">PROSO Toolbox</a>. Please Redirect to the PROSO Toolbox Repo for new features and updates. </h3>
+
 <br />
 <div align="center">
 
@@ -48,9 +50,7 @@
 
 OVERLAY is a collection of functions used to process, interpret, and study cellular multi-omics data under the scope of genome-scale modelling (GEM).
 
-<a href="https://github.com/QCSB/OVERLAY-Toolbox">
-  <img src="img/logo.png" alt="Logo" width="600" height="600">
-</a>
+<img src="img/logo.png" alt="Logo" class="center" width="600" height="600">
 
 What OVERLAY offers:
 * Automatic implementing protein constraints to any genome-scale metabolic model (M-model)
