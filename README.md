@@ -2,6 +2,8 @@
 
 <!-- PROJECT LOGO -->
 
+<h3 align="center">OVERLAY Algorithm is now a part of <a href="https://github.com/QCSB/PROSO-Toolbox">PROSO Toolbox</a>. Please Redirect to the PROSO Toolbox Repo for new features and updates. </h3>
+
 <br />
 <div align="center">
 
